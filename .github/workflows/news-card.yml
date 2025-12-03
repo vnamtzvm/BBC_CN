@@ -31,4 +31,4 @@ jobs:
           plugin_rss: yes
           # 下面这个链接可以换成你喜欢的 (BBC/CNN/纽约时报)
           plugin_rss_source: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml
-          plugin_rss_limit: 4       # 显示4条新闻
+          plugin_rss_limit: 10       # 显示10条新闻
