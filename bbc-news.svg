@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">中國兩學者破解百年難題，首奪全球數學最高榮譽</div>
+                                <div class="date">25 Jul 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">曼德海峽：胡塞武裝的威脅會否觸發紅海航運危機？</div>
                                 <div class="date">24 Jul 2026</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">你的工作會被AI取代嗎？哪些職位受到的影響最大</div>
+                                <div class="title">美中AI科技戰：白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術</div>
                                 <div class="date">24 Jul 2026</div>
                             </div>
                         </div>
@@ -47,8 +56,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">香港「47人案」前議員胡志偉英國機場險被遣返</div>
-                                <div class="date">23 Jul 2026</div>
+                                <div class="title">為什麼你總是在凌晨三點醒來？</div>
+                                <div class="date">24 Jul 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">美國以「強迫勞動」為由徵新關稅，影響中國、台灣等60個貿易夥伴</div>
+                                <div class="date">24 Jul 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -57,15 +75,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">中國電影《澎湖海戰》傳上映遭擱置：「反清復明」民間史觀神經再被挑動</div>
-                                <div class="date">23 Jul 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">美國與沙特簽署核協議 為中東再引核擴散風險</div>
                                 <div class="date">23 Jul 2026</div>
                             </div>
                         </div>
@@ -94,15 +103,6 @@
                             <div class="infos">
                                 <div class="title">「如果有一座橋」：金門人怎麼看翔安機場的「情感工程」？</div>
                                 <div class="date">22 Jul 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">英國女子稱在香港遭強姦，法庭裁定她勒索等罪成判監六年</div>
-                                <div class="date">23 Jul 2026</div>
                             </div>
                         </div>
                     </section>
