@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">法國血庫冷藏設備遭駭客攻擊　幕後黑手眾說紛紜</div>
+                                <div class="date">8 Nov 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」</div>
                                 <div class="date">6 Nov 2026</div>
                             </div>
@@ -48,15 +57,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？</div>
-                                <div class="date">6 Nov 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">歐洲航空業虛假炸彈威脅：誰是幕後黑手？</div>
                                 <div class="date">6 Nov 2026</div>
                             </div>
                         </div>
@@ -101,7 +101,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">塞爾維亞電視台為何在節目中就「多年來的片面報道」道歉？</div>
+                                <div class="title">歐洲航空業虛假炸彈威脅：誰是幕後黑手？</div>
                                 <div class="date">6 Nov 2026</div>
                             </div>
                         </div>
